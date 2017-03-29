@@ -40,19 +40,20 @@ If you would like to discuss something with me, you can send a message to Xpedit
 This repository contains three separate lists with resources.
 
 These are structured as follows:
-- General_Resources
-    1. General
-    2. NEM Resources (documentation)
-    3. Miscelaneous
-    4. Testnet Resources
+
+General_Resources
+1. General
+2. NEM Resources (documentation)
+3. Miscelaneous
+4. Testnet Resources
 
 
-- Projects
-    1. Wallets
-    2. Explorers
-    3. Other projects
+Projects
+1. Wallets
+2. Explorers
+3. Other projects
 
 
-- DEV_Resources
-    1. Technical Data
-    2. Language specific documentation
+DEV_Resources
+1. Technical Data
+2. Language specific documentation
