@@ -1,3 +1,4 @@
+:warning:  *This is a work in progress and thus far from complete!* :warning:
 # Introduction
 
 This repository is an attempt to list all available resources for the [NEM](nem.io) blockchain platform (*Probably the best blockchain in the world.*)
@@ -24,7 +25,7 @@ I encourage everyone to cooperate on this and make pull requests or issues as re
 |  | Description |
 | ------------- | ------------- |
 | :exclamation:| Used for important references |
-| :warning: | Beware, something is wrong  |
+| :warning: | For warnings, outdated and deprecated things  |
 
 
 ## Contact
@@ -41,19 +42,19 @@ This repository contains three separate lists with resources.
 
 These are structured as follows:
 
-General_Resources
+[General_Resources](https://github.com/Xpedite/NEM-Resources/blob/master/General_Resources.md)
 1. General
-2. NEM Resources (documentation)
-3. Miscelaneous
+2. Resources (documentation)
+3. Miscellaneous
 4. Testnet Resources
 
 
-Projects
+[Projects](https://github.com/Xpedite/NEM-Resources/blob/master/Projects.md)
 1. Wallets
 2. Explorers
 3. Other projects
 
 
-DEV_Resources
+[DEV_Resources]()
 1. Technical Data
 2. Language specific documentation

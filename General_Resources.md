@@ -1,5 +1,5 @@
 # Index
-----
+
 
 1. General
 2. NEM Resources (documentation)
@@ -11,10 +11,10 @@
 
 
 # 1. General
-----
+
 
 ## NEM General
-----
+
 
 *Although it is not the purpose of this repo to provide general information, we include a couple of basics for people that accidentaly land here.*
 
@@ -23,10 +23,10 @@
 
 
 # 2. Resources
-----
+
 
 ## White papers
-----
+
 
 - [Technical Reference (white paper)]( http://nem.io/NEM_techRef.pdf) - [Japanese version](http://nemmanual.net/NEM_Technical_reference_JA/)
 - [Catapult white paper](https://www.nem.io/catapultwhitepaper.pdf) - [Japanese version](http://mijin.io/catapult_whitepaper_ja.pdf)
@@ -34,7 +34,7 @@
 
 
 ## Node Setup
-----
+
 ### General
 
 - [nem-Docker](https://github.com/rb2nem/nem-docker)  &  [NEM Docker blog article](https://blog.nem.io/nem-docker/)
@@ -47,8 +47,8 @@
 - [NEM supernode rewards program](https://forum.nem.io/t/nem-supernode-rewards-program/1735) - Forum link to supernodes program information
 - [Supernodes](http://supernodes.nem.io/) - Registered supernodes and test results
 
-# 3. Miscelaneous
-----
+# 3. Miscellaneous
+
 
 ## External API
 ----
