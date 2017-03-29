@@ -1,7 +1,7 @@
 :warning:  *This is a work in progress and thus far from complete!* :warning:
 # Introduction
 
-This repository is an attempt to list all available resources for the [NEM](nem.io) blockchain platform (*Probably the best blockchain in the world.*)
+This repository is an attempt to list all available resources for the [NEM](nem.io) blockchain platform (*Probably the best blockchain in the world*).
 
 Lots of NEM related information and repositories exist but we might be overdoing the *decentralization* part a little ;-)
 
@@ -16,7 +16,7 @@ I encourage everyone to cooperate on this and make pull requests or issues as re
   - Pull requests that change the structure of the docs will be closed. If you want to change the structure, please open an issue
 
 - When you don't want to use GitHub:
-  - *We'll see how this works out, I might remove this option if it proves to difficult to mangage.*
+  - *We'll see how this works out, I might remove this option if it proves to difficult to manage.*
   - Ping me on one of the channels listed below in Contact
   - Give me an exact description of what could be changed
 
@@ -55,6 +55,6 @@ These are structured as follows:
 3. Other projects
 
 
-[DEV_Resources]()
+[DEV_Resources](https://github.com/Xpedite/NEM-Resources/blob/master/DEV_Resources.md)
 1. Technical Data
 2. Language specific documentation

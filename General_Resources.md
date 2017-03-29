@@ -24,6 +24,9 @@
 
 # 2. Resources
 
+## Source code
+
+- :exclamation: [NEM source code](https://github.com/NemProject) - NEM Project GitHub page
 
 ## White papers
 

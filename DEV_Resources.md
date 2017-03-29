@@ -14,8 +14,7 @@
 
 ## Development Resources
 
-- :exclamation: [NEM source code](https://github.com/NemProject) - NEM Project GitHub page
-- [Nem_programming](https://github.com/rb2nem/nem_programming)
+- [Nem_programming](https://github.com/rb2nem/nem_programming) - A guide to NEM programming
 - [Mijin API (Japanese)](http://mijin.usayama.com/) -
 
 # 2. Language specific documentation
