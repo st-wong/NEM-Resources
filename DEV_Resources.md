@@ -8,20 +8,21 @@
 ## API documentation
 
 - :exclamation: [NEM NIS API Documentation](http://bob.nem.ninja/docs/) - :warning: *Contains some outdated information!*
-- [NEM Primer And NCC API Documentation](https://www.nem.io/ncc/index.html) - A basic introduction to NEM technology (+ NCC API documentation)
+- [NEM Primer And NCC API Documentation](https://www.nem.io/ncc/index.html) - A basic introduction to NEM technology (+ NCC API documentation :warning: DEPRECATED)
 - [NEM Core API](http://www.nem.ninja/org.nem.core/) - NEM Core API documentation
 - [NEM official tutorials](https://blog.nem.io/nem-tutorial-list/)
 
 ## Development Resources
 
 - [Nem_programming](https://github.com/rb2nem/nem_programming) - A guide to NEM programming
+- [NEM’s Developer guide](https://rb2nem.github.io/nem-dev-guide/) - Get all information you need to develop on NEM’s technology.
 - [Mijin API (Japanese)](http://mijin.usayama.com/) -
 
 # 2. Language specific documentation
 
 *These are dev resources sorted per language. Specific projects are in the Projects file of this repository.*
 
-## Javascript
+## JavaScript
 
 - [NEM-sdk](https://github.com/QuantumMechanics/NEM-sdk) - NEM Developer Kit for Node.js and the browser
 - [nem-api](https://github.com/nikhiljha/nem-api) - API Wrapper for the NIS Layer of the NEM Blockchain Platform
@@ -49,3 +50,4 @@
 
 - [NEM-Api-Library](https://github.com/namuyan/NEM-Api-Library) - NEM Api Library in PHP
 - [NEMTools_PHP](https://github.com/tomotomo9696/NEMTools_PHP) - NEMTools PHP development support in PHP
+- [php-nem-laravel](https://github.com/evias/php-nem-laravel) - Laravel Wrapper for NEM blockchain API

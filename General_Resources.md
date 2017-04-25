@@ -58,6 +58,10 @@
 
 - [NodeExplorer JSON/JSONP API](https://www.nodeexplorer.com/api) - NEM Network Status, such as the node list
 
+## General Tools
+
+- [Delegated Harvesting Activation](http://samesake.com/xem/harvesting-calculator/) - A tool to calculate how long it takes to get a vested balance of 10k XEM based on account balance. 
+
 # 4. Testnet
 ----
 

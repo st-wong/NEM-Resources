@@ -1,7 +1,7 @@
 :warning:  *This is a work in progress and thus far from complete!* :warning:
 # Introduction
 
-This repository is an attempt to list all available resources for the [NEM](nem.io) blockchain platform (*Probably the best blockchain in the world*).
+This repository is an attempt to list all available resources for the [NEM](https://www.nem.io/) blockchain platform (*Probably the best blockchain in the world*).
 
 Lots of NEM related information and repositories exist but we might be overdoing the *decentralization* part a little ;-)
 
