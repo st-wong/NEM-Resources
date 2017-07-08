@@ -29,6 +29,8 @@
 - [Nodejs2nem](https://github.com/NemProject/nodejs2nem) - Javascript (nodejs) in the NEM (NIS & NCC) simple class to access the API
 
 - [NEM-NanoSnippets](https://github.com/AtrauraBlockchain/NEM-NanoSnippets) - Common snippets for developent in NanoWallet
+- [NEM Node.js Command Line Tools](https://github.com/evias/nem-utils) - Terminal tools in Node.js for the NEM Blockchain with the NEM-sdk
+- [NEM Node.js Bot](https://github.com/evias/nem-nodejs-bot) - Node.js Bot backend with features for Payment Processing (Invoices), automatic Multisignature accounts transactions co-signing & Websockets block delay auditor with automatic node switching.
 
 ## Java
 
