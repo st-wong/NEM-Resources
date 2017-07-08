@@ -3,6 +3,7 @@
 1. Wallets
 2. Explorers
 3. Other projects
+4. Bots
 
 # 1. Wallets
 
@@ -33,3 +34,9 @@ Code is in the NanoWallet repository.
 
 ## Landstead
 https://github.com/AtrauraBlockchain/Landstead
+
+# 4. Bots
+
+- [NemNotificationBot](https://github.com/NemProject/NemNotificationBot): The Nem chain notifications bot was created to automate the checking of supernode tests as well as nem account transactions, and harvested blocks to take the hassle out of monitoring your nodes and accounts. Check the official blog entry. MIT License
+- [MultisigTransactionSigner](https://github.com/kodty/MultisigTransactionSigner): A simple bot for signing XEM multisignature transactions with optional signing rules. MIT License
+- [nemtelegrambot](https://github.com/davidebenato/nemtelegrambot): This telegram bot allows users to subscribe to specific NEM wallets and sending them a message upon activity on that wallet. Check the official blog entry. MIT License
