@@ -40,6 +40,7 @@
 - [nem-apps](https://github.com/NEMChina/nem-apps) - Initiate and monitor transactions
 
 - [NEM-NIS-API-Java-Sample](https://github.com/tomotomo9696/NEM-NIS-API-Java-Sample)
+- [SimplifyNEM](https://github.com/st-wong/SimplifyNEM) - Examples on NEM's APIs
 
 ### C sharp
 
